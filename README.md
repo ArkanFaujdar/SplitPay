@@ -1,1 +1,1 @@
-**SplitPay** is an application where you can split bills with you friend. It is a web appliation developed in **ReactJS**. For the styling purpose I have used **TailwindCSS** and it is a responsive website.
+
